@@ -425,4 +425,3 @@ This project is open-sourced under the [MIT License](LICENSE).
 If you have any questions or suggestions, feel free to contact us through:
 
 - Submit a GitHub Issue
-- Send an email to: your-email@example.com

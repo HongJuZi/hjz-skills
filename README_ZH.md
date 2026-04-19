@@ -425,4 +425,3 @@ hjz-skills/
 如果你有任何问题或建议，欢迎通过以下方式联系我们：
 
 - 提交 GitHub Issue
-- 发送邮件至：your-email@example.com
